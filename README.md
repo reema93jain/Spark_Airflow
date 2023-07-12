@@ -2,7 +2,7 @@
 
 *Spark*             
 - Deployed Spark using Docker                    
-- Defined Spark Sessions, created views & executed SQL queries on flights' departure delays data                     
+- Defined Spark Sessions, created views & executed SQL queries on flights' departure delay data                     
 
 *Airflow*                        
 - Deployed Airflow in a Docker container                          
